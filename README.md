@@ -1,2 +1,2 @@
 # My_Projects
-This could contain my Research works and the Projects I created
+It contains my Research works and the Projects I made
